@@ -1,0 +1,11 @@
+1 bant Desibel 10 44
+2 Yapistirici Kirac 25 44
+3 Suitici Weber 10 75
+4 sunger Turkeli 10 11
+5 alci Abs 10 20
+6 boya FilliBoya 20 350
+7 parketakozu Kestamid 20 42
+8 boru Ege 10 20
+9 ısısilikonu Akfix 10 10
+10 aliminyum Center 10 62
+
